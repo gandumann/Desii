@@ -6,7 +6,7 @@
 
 # Define the root directory to /home/container.
 # We can only write in /home/container and /tmp in the container.
-ROOTFS_DIR=/home/Desi
+ROOTFS_DIR=/home/container
 
 # Define the Alpine Linux version we are going to be using.
 ALPINE_VERSION="3.18"
